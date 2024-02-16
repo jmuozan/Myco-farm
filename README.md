@@ -17,6 +17,8 @@ https://aleawork.com/back-to-dirt-mycelium
 
 https://www.boisbuchet.org/workshop/mycelium-nothing-really-matters/#
 
+![](IMGS/3D print/IMG_3253.JPG)
+
 ## Integrated Design
 
 To test the initial hypotesis we decided to make a small sample that we could observe and analyze the growth and connections of the mycelium without taking a lot of time. To do it we decided, similarly to an ant farm to make a section of the mold and connection and the ground. The artifact consists of a surrounding made out of an acrylic box, half mold and half the connection piece connected between each other and to the acrylic wall. The box will be filled with the mycelium and soil so we will be able to properly observe the evolution of the growth. Also, the box will have lateral space to add sensors or other living beens so we could also see how the mycorrhizae interacts with them.
