@@ -10,8 +10,10 @@ This proposal offers a different approach to grow mycelium than doing it in a La
 Further research is needed in order to not alter the ecosystem's balance (fungi species, plant species).
 
 The myco-farm takes the idea of an ant farm allowing us to observe this concept in a section format, where the propagation and behaivour of the mycelium and plants in a more visual way.
-![](/Users/jorgemuyo/Desktop/MDEF/MDEF_WEB/Myco-farm/IMGS/Concept+references/sketch 1.jpeg)
-![](/Users/jorgemuyo/Desktop/MDEF/MDEF_WEB/Myco-farm/IMGS/Concept+references/sketch 2.jpeg)
+
+![](./IMGS/Concept_references/sketch_1.jpeg)
+
+![](./IMGS/Concept_references/sketch_2.jpeg)
 
 ## References 
 
@@ -19,18 +21,18 @@ https://aleawork.com/back-to-dirt-mycelium
 
 https://www.boisbuchet.org/workshop/mycelium-nothing-really-matters/#
 
-![](IMGS/3D print/IMG_3253.JPG)
+![](./IMGS/3D_print/IMG_3253.JPG)
 
 ## Integrated Design
 
 To test the initial hypotesis we decided to make a small sample that we could observe and analyze the growth and connections of the mycelium without taking a lot of time. To do it we decided, similarly to an ant farm to make a section of the mold and connection and the ground. The artifact consists of a surrounding made out of an acrylic box, half mold and half the connection piece connected between each other and to the acrylic wall. The box will be filled with the mycelium and soil so we will be able to properly observe the evolution of the growth. Also, the box will have lateral space to add sensors or other living beens so we could also see how the mycorrhizae interacts with them.
 
-![](/Users/jorgemuyo/Desktop/MDEF/MDEF_WEB/Myco-farm/IMGS/3D_Renders/Myco-Farm.46.png)
+![](.IMGS/3D_Renders/Myco-Farm.46.png)
 
 ## System Diagram
 
 As it was explained before this is the way the concept design was imagined before fabrication:
-![](/Users/jorgemuyo/Desktop/MDEF/MDEF_WEB/Myco-farm/IMGS/3D_Renders/Exploded.png)
+![](./IMGS/3D_Renders/Exploded.png)
 
 - **1, 2, 3, 4 Box:** Acrylic box that will make "imaginary" surroundings for us to see through them.
 
@@ -48,13 +50,13 @@ As it was explained before this is the way the concept design was imagined befor
 - Connection: To manufacture this piece we tried two different fabrication techniques. First we tried with the hacked 3D paste printer because we wanted the final result to be printed in clay so the hole artifact will be and feel more natural but the machine gave us a lot of problems while printing. For that reason, as we didn't have a lot of time and the goal of the challenge was mainly to test the initial hypothesis, we ended up deciding to print it in PLA as the mold. 
 As it was mentioned before, the piece contains different squared extrusions on the front face so it can fit with the holes made in the box front face, Also, on the bak part we added different hoes so the mycorrhizae can expand it's network through the soil.
 
-![](/Users/jorgemuyo/Desktop/MDEF/MDEF_WEB/Myco-farm/IMGS/3D_print/IMG_3253.JPG)
-![link text](/Users/jorgemuyo/Desktop/MDEF/MDEF_WEB/Myco-farm/IMGS/3D_print/IMG_5966.jpg)
-![]()
+![](./IMGS/3D_print/IMG_3253.JPG)
+![](./IMGS/3D_print/IMG_5966.jpg)
+
 
 - Mold: To make the half/mold we decided to print it with PLA too. The semi circular hole on the bottom part is made so the roots of the mycorrhizae can travel trough and fill both the mold and the connection piece. On the back part, we added some holes so the mycelium inside will be able to breath. In the folder, make a mold, you will be able to create your desired shape inside the mold as we facilitated open 3D NURBS based file formats (.igs and .step) with the mold shape filled. By making a simple ***boolean difference*** operation in your desired 3D software you can print the desired shape inside the mold to fiti it in the ***myco-farm***
 
-![](/Users/jorgemuyo/Desktop/MDEF/MDEF_WEB/Myco-farm/IMGS/Laser_Cut/IMG_5973.jpg)
+![](./IMGS/Laser_Cut/IMG_5973.jpg)
 
 ## Data Capture Implementation
 
