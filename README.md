@@ -8,8 +8,8 @@ The following project tries to put to the test a new way of manufacturing. Based
 
 By planting molds to the soil connected via 3d printed clay structures that allow mycelium to both, grow through the mold and expand its net to eventually connect to the mycorrhizae. This method, allows exchange of nutrients between the mold and the natural ecosystem. Through this artifact we explore the idea of taking resources in a more responsible way, exchanging nutrients and the new mycorrhizae network for a desired object, fruit, etc...
 Further research is needed in order to not alter the ecosystem's balance (fungi species, plant species).
-![](./IMGS/Concept_references/sketch 1.jpeg)
-![](./IMGS/Concept_references/sketch 2.jpeg)
+![](./IMGS/sketch 1.jpeg)
+![](./IMGS/sketch 2.jpeg)
 
 The myco-farm takes the main idea and converts it into an ant farm allowing us to be observers in the evolution of growth of the mycelium. The myco-farm, consists of an acrylic box with the 3d printed connections and mold sectioned and fixed to the acrylic wall so we can see the whole process of growth.
 
