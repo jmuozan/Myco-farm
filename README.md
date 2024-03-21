@@ -11,11 +11,15 @@ Further research is needed in order to not alter the ecosystem's balance (fungi 
 ![](./IMGS/Concept_references/sketch_1.png)
 ![](./IMGS/Concept_references/sketch_2.png)
 
+![](./IMGS/Concept_references/sketch_3.JPG)
+
 The myco-farm takes the main idea and converts it into an ant farm allowing us to be observers in the evolution of growth of the mycelium. The myco-farm, consists of an acrylic box with the 3d printed connections and mold sectioned and fixed to the acrylic wall so we can see the whole process of growth.
 
-
+![](./IMGS/Concept_references/sketch_4.JPG)
 
 ## References 
+
+Looking out for references, we've seen that other people have managed to properly grow mycelium outdoors (As it's natural) but not in complex molded shapes. For that reason we also wanted to see how will the mycelium adapt to more complex shapes. Also, non of the examples we saw had the philosophy we had behind them of not taking without leaving.
 
 https://aleawork.com/back-to-dirt-mycelium
 
@@ -32,28 +36,28 @@ To test the initial hypotesis we decided to make a small sample that we could ob
 As it was explained before this is the way the concept design was imagined before fabrication:
 ![](./IMGS/3D_Renders/Exploded.png)
 
-- **1, 2, 3, 4 Box:** Acrylic box that will make "imaginary" surroundings for us to see through them.
+- **(1, 2, 3, 4) Box:** Acrylic box that will make "imaginary" surroundings for us to see through them.
 
-- **5 Connection module:** This piece, as it's name sais will be the ***connection*** between the mold and the soil. It's a semi circular tube able to fit the top part on the mold and full of holes on the side so the mycelium network will be able to expand.
+- **(5) Connection module:** This piece, as it's name says will be the ***connection*** between the mold and the soil. It's a semi circular tube able to fit the top part on the mold and full of holes on the side so the mycelium network will be able to expand.
 
-- **6 Mold:** The last piece it's the mold itself, it's cutted by half and it has to be connected to the face of the box, on the bottom it has a semicricular hole where piece 2 will be connected. Also, has different breathing 
+- **(6) Mold:** The last piece it's the mold itself, it's cut by half and it has to be connected to the face of the box, on the bottom it has a semicircular hole where piece 2 will be connected. Also, has different breathing 
 
 
 ## Piece Definition and Fabrication Process
 
-- Box: For the fabrication of the box, we designed the 2D shapes of the different faces on Rhinoceros, applying the different finger edge joints on the sides and creating new squared connections on the front face to join the box with both the tubular connection and with the mold.After this, we assigned different colors following the hierarchy of the laser cut machine, red for the interior cuts and blue for the outside cuts.
+- **Box:** For the fabrication of the box, we designed the 2D shapes of the different faces on Rhinoceros, applying the different finger edge joints on the sides and creating new squared connections on the front face to join the box with both the tubular connection and with the mold.After this, we assigned different colors following the hierarchy of the laser cut machine, red for the interior cuts and blue for the outside cuts.
 
+  ![](./IMGS/Laser_Cut/IMG_5977.jpg)
 
-
-- Connection: To manufacture this piece we tried two different fabrication techniques. First we tried with the hacked 3D paste printer because we wanted the final result to be printed in clay so the hole artifact will be and feel more natural but the machine gave us a lot of problems while printing. For that reason, as we didn't have a lot of time and the goal of the challenge was mainly to test the initial hypothesis, we ended up deciding to print it in PLA as the mold. 
+- **Connection:** To manufacture this piece we tried two different fabrication techniques. First we tried with the hacked 3D paste printer because we wanted the final result to be printed in clay so the hole artifact will be and feel more natural but the machine gave us a lot of problems while printing. For that reason, as we didn't have a lot of time and the goal of the challenge was mainly to test the initial hypothesis, we ended up deciding to print it in PLA as the mold. 
 As it was mentioned before, the piece contains different squared extrusions on the front face so it can fit with the holes made in the box front face, Also, on the bak part we added different hoes so the mycorrhizae can expand it's network through the soil.
 
 ![](./IMGS/3D_print/IMG_3253.JPG)
 ![link text](./IMGS/3D_print/IMG_5966.jpg)
 
-- Mold: To make the half/mold we decided to print it with PLA too. The semi circular hole on the bottom part is made so the roots of the mycorrhizae can travel trough and fill both the mold and the connection piece. On the back part, we added some holes so the mycelium inside will be able to breath. In the folder, make a mold, you will be able to create your desired shape inside the mold as we facilitated open 3D NURBS based file formats (.igs and .step) with the mold shape filled. By making a simple ***boolean difference*** operation in your desired 3D software you can print the desired shape inside the mold to fiti it in the ***myco-farm***
+- **Mold:** To make the half/mold we decided to print it with PLA too. The semi circular hole on the bottom part is made so the roots of the mycorrhizae can travel trough and fill both the mold and the connection piece. On the back part, we added some holes so the mycelium inside will be able to breath. In the folder, make a mold, you will be able to create your desired shape inside the mold as we facilitated open 3D NURBS based file formats (.igs and .step) with the mold shape filled. By making a simple ***boolean difference*** operation in your desired 3D software you can print the desired shape inside the mold to fiti it in the ***myco-farm***
 
-![](./IMGS/Laser_Cut/IMG_5973.jpg)
+![](./IMGS/3D_print/2.jpg)
 
 ## Mycelium
 
@@ -97,8 +101,6 @@ As it was mentioned before, the piece contains different squared extrusions on t
 10. Fill with dirt and place a little plant, in this case it was a celery <3.
 
 ![](./IMGS/Mycelium/11.jpg)
-
-
 
 ## Data Capture Implementation
 
