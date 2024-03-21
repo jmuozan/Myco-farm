@@ -61,6 +61,8 @@ As it was mentioned before, the piece contains different squared extrusions on t
 
 ## Mycelium
 
+Once the artifact was done we had to fill it with mycelium. Here you can see a step by step tutorial on how we do it.
+
 
 1. Prepare the substrate. In this case, small amount of coffee was added for additional nutrients.
 
@@ -106,7 +108,11 @@ As it was mentioned before, the piece contains different squared extrusions on t
 
 To properly observe and analyze, we decided to add some sensors to the box, measuring temperature, humidity... As we were suggested to use the ***Parrot Flower-Power*** sensor, an all in one sensor capable of measuring temperature, light, fertilizers and watering. As it was an all in one sensor with a dedicated phone app, we thought it will be easier than assembling and coding all by ourselves. Problem came when we realized the sensor is no longer supported by Parrot so we had to ***hack*** it and extract the data with a computer and save it in a .csv file for proper analysis later. This was a hard process where we needed a lot of help from Mikel to read data from the sensor with a Raspberry. As we didn't had enough time and we lack some technical skills we didn't finish this part yet. For future iterations will be ideal to manage to take that data and put it in a csv file for visualization.
 
-## Final Reflections
+## Final Result and Reflections
+
+Once the artifact with the mycelium was fully done, we decided to add a plant into it to see how would the mycorrizhae interact with it. Even though we couldn't see immediate results, we were happy with the result, as it was a super interesting concept to experiment on. With more time and knowledge, a few things could have been done better such as having build the connection on clay, use a different material (more friendly with the mycelium) for the 3d printed mold and manage to add the parrot sensor. Over all it was a super interesting speculative project that we had fun iterating over.
 
 ![](./IMGS/Final/Final.jpeg)
+
+***Update 21/03/24:** We've seen that the growth of the mycelium hasn't been the optimum when placing the box outdoors. It's possible that the February weather has been too cold for the mycelium to grow. We will keep observing.
 
