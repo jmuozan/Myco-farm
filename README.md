@@ -4,14 +4,16 @@
 [Everardo Castro Torres](https://everardocastro.github.io/mdef1/)
 [Jorge Muñoz Zanón](https://jmuozan.github.io/mdef-website/)**
 
+The following project tries to put to the test a new way of manufacturing. Based on the growth of mycelium, this project offers a different approach to grow mycelium than doing it in a Lab.
 
-Mold connected to the soil through 3d printed clay structure that allows mycelium to both, grow through the mold and expand its net to eventually connect to the mycorrhizae. This allows exchange of nutrients between the mold and the natural ecosystem. Through this artifact we explore the idea of taking resources in a more responsible way, exchanging nutrients and the new mycorrhizae network for a desired object, fruit, etc...
-This proposal offers a different approach to grow mycelium than doing it in a Lab.
+By planting molds to the soil connected via 3d printed clay structures that allow mycelium to both, grow through the mold and expand its net to eventually connect to the mycorrhizae. This method, allows exchange of nutrients between the mold and the natural ecosystem. Through this artifact we explore the idea of taking resources in a more responsible way, exchanging nutrients and the new mycorrhizae network for a desired object, fruit, etc...
 Further research is needed in order to not alter the ecosystem's balance (fungi species, plant species).
+![](./IMGS/Concept_references/sketch 1.jpeg)
+![](./IMGS/Concept_references/sketch 2.jpeg)
 
-The myco-farm takes the idea of an ant farm allowing us to observe this concept in a section format, where the propagation and behaivour of the mycelium and plants in a more visual way.
-![](./IMGS/Concept+references/sketch_1.jpeg)
-![](./IMGS/Concept+references/sketch_2.jpeg)
+The myco-farm takes the main idea and converts it into an ant farm allowing us to be observers in the evolution of growth of the mycelium. The myco-farm, consists of an acrylic box with the 3d printed connections and mold sectioned and fixed to the acrylic wall so we can see the whole process of growth.
+
+
 
 ## References 
 
@@ -105,5 +107,4 @@ To properly observe and analyze, we decided to add some sensors to the box, meas
 ## Final Reflections
 
 ![](./IMGS/Final/Final.jpeg)
-
 
