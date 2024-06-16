@@ -25,6 +25,48 @@ https://aleawork.com/back-to-dirt-mycelium
 
 https://www.boisbuchet.org/workshop/mycelium-nothing-really-matters/#
 
+## Game Plan 
+
+1. **Research Phase**:
+   - Look for existing methods of growing mycelium outdoors.
+   - Explore materials and structures suitable for complex shapes.
+2. **Design Phase**:
+   - Design 3D printed clay structures to connect molds.
+   - Create sketches and prototypes of the acrylic box setup.
+3. **Implementation Phase**:
+   - Print the 3D clay structures
+   - Set up the acrylic box and attach the structures and molds.
+4. **Growth Phase**:
+   - Plant molds in the soil and connect via 3D printed structures
+   - Observe the growth of mycelium and its interaction with mycorrhizae
+5. **Data Collection Phase**: (WE DIDN'T MANAGED TO DO THIS ONE)
+   - Use the sensors to measure temperature, humidity, and other variables and save the data.
+6. **Analysis Phase**:
+   - Collect and analyze data from the sensors.
+   - Document the growth process.
+7. **Reflection and Iteration**:
+   	- Reflect on the results and the effectiveness of the setup.
+   	- Plan for future improvements based on reflections.
+
+## Shopping List
+
+### Materials:
+
+	- Acrylic sheets (for the box)
+	- 3D printer filament (for clay structures) / Clay and a clay 3d printer
+	- Soil
+	- Mycelium molds
+	- Small plant (example: celery)
+
+### Tools and Equipment:
+
+	- 3D printer
+	- Cutting tools for acrylic
+	- Parrot Flower-Power sensor (or alternatives)
+	- Raspberry Pi (for data extraction)
+
+## References and Resources
+
 ## Integrated Design
 
 To test the initial hypotesis we decided to make a small sample that we could observe and analyze the growth and connections of the mycelium without taking a lot of time. To do it we decided, similarly to an ant farm to make a section of the mold and connection and the ground. The artifact consists of a surrounding made out of an acrylic box, half mold and half the connection piece connected between each other and to the acrylic wall. The box will be filled with the mycelium and soil so we will be able to properly observe the evolution of the growth. Also, the box will have lateral space to add sensors or other living beens so we could also see how the mycorrhizae interacts with them.
@@ -107,6 +149,19 @@ Once the artifact was done we had to fill it with mycelium. Here you can see a s
 ## Data Capture Implementation
 
 To properly observe and analyze, we decided to add some sensors to the box, measuring temperature, humidity... As we were suggested to use the ***Parrot Flower-Power*** sensor, an all in one sensor capable of measuring temperature, light, fertilizers and watering. As it was an all in one sensor with a dedicated phone app, we thought it will be easier than assembling and coding all by ourselves. Problem came when we realized the sensor is no longer supported by Parrot so we had to ***hack*** it and extract the data with a computer and save it in a .csv file for proper analysis later. This was a hard process where we needed a lot of help from Mikel to read data from the sensor with a Raspberry. As we didn't had enough time and we lack some technical skills we didn't finish this part yet. For future iterations will be ideal to manage to take that data and put it in a csv file for visualization.
+
+## References and Resources (How other people did similar things)
+
+### British mycological society
+[Outdoor Activity 3: Making a mycelium](https://www.britmycolsoc.org.uk/education/resources-and-materials/primary-school-outdoor/outdoor-activity-3-making-a-mycelium)
+
+### Grow.bio
+
+[How to Grow Mycelium Material](https://youtu.be/04kN81MHt0o?si=gaNOmU8uFSF1W337)
+
+### University of Edinburgh (College of Art)
+
+[Mycterials – Expanding The Mycelium Toolbox](https://biodesign.eca.ed.ac.uk/mycterials-expanding-the-mycelium-toolbox/)
 
 ## Final Result and Reflections
 
